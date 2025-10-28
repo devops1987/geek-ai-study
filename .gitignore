@@ -1,1 +1,9 @@
 nohup.out
+.ipynb_checkpoints/
+deepseek/api/.ipynb_checkpoints
+deepseek/api/.milvus_mfd.db.lock
+deepseek/api/milvus_docs
+deepseek/api/milvus_demo.db
+deepseek/api/milvus_mfd.db
+deepseek/api/mfd.md
+.git
